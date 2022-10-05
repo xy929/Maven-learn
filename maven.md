@@ -1,6 +1,6 @@
 # Maven
 
-![image](https://img.shields.io/badge/Maven-3.8.6-#83297b.svg)
+![Maven-3.8](img/Maven-3.8.6-#83297b.svg)
 
 `Maven` 是一个**项目管理工具**，可以对 Java 项目进行自动化的**构建**和**依赖**管理。
 
